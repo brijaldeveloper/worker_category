@@ -7,7 +7,7 @@ const SearchInput = ({ onChangeText ,value}) => {
     <View style={styles.container}>
       <View style={styles.searchContainer}>
         <View style={styles.iconContainer}>
-          <Icon name="search" size={18} />
+          <Icon name="search" size={18} color={"rgba(0,0,0,0.4)"} />
         </View>
         <View style={styles.inputContainer}>
           <TextInput 
@@ -19,7 +19,7 @@ const SearchInput = ({ onChangeText ,value}) => {
           />
         </View>
         <View style={styles.iconContainerEnd}>
-          <Icon name="microphone" size={20} />
+          <Icon name="microphone" size={20} color={"rgba(0,0,0,0.4)"}/>
         </View>
       </View>
       <View style={styles.spacer} />
@@ -61,6 +61,7 @@ const styles = StyleSheet.create({
   textInput: {
     fontSize: 18,
     fontWeight: '500',
+    color:"#000"
   },
   iconContainerEnd: {
     width: '10%',
