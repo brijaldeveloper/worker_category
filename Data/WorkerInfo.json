@@ -1,0 +1,441 @@
+{
+"Astrologer":[
+    {
+        "username": "Astrologer",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Colombia_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker1"
+    },
+    {
+        "username": "Leslie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Netherlands_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker2"
+    },
+    {
+        "username": "Arlene",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker3"
+    },
+    {
+        "username": "Victoria",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker4"
+    },
+    {
+        "username": "Gladys",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker5"
+  
+    },
+    {
+        "username": "Darrell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker6"
+     
+    },
+    {
+        "username": "Kyle",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker7"
+    },
+    {
+        "username": "Marjorie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_United_Kingdom_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker8"
+      
+    },
+    {
+        "username": "Kristin",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker9"
+    },
+    {
+        "username": "Dianne",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker10"
+    },
+    {
+        "username": "Philip",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+       "avatar": "https://i.pravatar.cc/100?u=worker11"
+    },
+    {
+        "username": "Ronald",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker12"
+    },
+    {
+        "username": "Mitchell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker13"             
+    },
+    {
+        "username": "Greg",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker14"
+    },
+    {
+        "username": "Eduardo",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Greece_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker15"
+    },
+    {
+        "username": "Cameron",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker16"
+    }
+
+],
+"Assistant":[
+    {
+        "username": "Gladys",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker5"
+  
+    },
+    {
+        "username": "Darrell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker6"
+     
+    },
+    {
+        "username": "Kyle",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker7"
+    },
+    {
+        "username": "Marjorie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_United_Kingdom_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker8"
+      
+    },
+    {
+        "username": "Assistant",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Colombia_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker1"
+    },
+    {
+        "username": "Leslie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Netherlands_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker2"
+    },
+    {
+        "username": "Arlene",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker3"
+    },
+    {
+        "username": "Victoria",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker4"
+    },
+   
+    {
+        "username": "Kristin",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker9"
+    },
+    {
+        "username": "Dianne",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker10"
+    },
+    {
+        "username": "Philip",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+       "avatar": "https://i.pravatar.cc/100?u=worker11"
+    },
+    {
+        "username": "Ronald",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker12"
+    },
+    {
+        "username": "Mitchell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker13"             
+    },
+    {
+        "username": "Greg",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker14"
+    },
+    {
+        "username": "Eduardo",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Greece_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker15"
+    },
+    {
+        "username": "Cameron",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker16"
+    }
+
+],
+"Makeup":[
+    {
+        "username": "Kristin",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker9"
+    },
+    {
+        "username": "Dianne",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker10"
+    },
+    {
+        "username": "Philip",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+       "avatar": "https://i.pravatar.cc/100?u=worker11"
+    },
+    {
+        "username": "Ronald",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker12"
+    },
+    {
+        "username": "Makeup",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Colombia_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker1"
+    },
+    {
+        "username": "Leslie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Netherlands_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker2"
+    },
+    {
+        "username": "Arlene",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker3"
+    },
+    {
+        "username": "Victoria",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker4"
+    },
+    {
+        "username": "Gladys",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker5"
+  
+    },
+    {
+        "username": "Darrell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker6"
+     
+    },
+    {
+        "username": "Kyle",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker7"
+    },
+    {
+        "username": "Marjorie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_United_Kingdom_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker8"
+      
+    },
+   
+    {
+        "username": "Mitchell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker13"             
+    },
+    {
+        "username": "Greg",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker14"
+    },
+    {
+        "username": "Eduardo",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Greece_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker15"
+    },
+    {
+        "username": "Cameron",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker16"
+    }
+
+],
+"Mehndi":[
+    {
+        "username": "Mehndi",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Colombia_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker1"
+    },
+    {
+        "username": "Leslie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Netherlands_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker2"
+    },
+    {
+        "username": "Arlene",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker3"
+    },
+    {
+        "username": "Victoria",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker4"
+    },
+    {
+        "username": "Gladys",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker5"
+  
+    },
+    {
+        "username": "Darrell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker6"
+     
+    },
+    {
+        "username": "Kyle",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker7"
+    },
+    {
+        "username": "Marjorie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_United_Kingdom_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker8"
+      
+    },
+    {
+        "username": "Kristin",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker9"
+    },
+    {
+        "username": "Dianne",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker10"
+    },
+    {
+        "username": "Philip",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+       "avatar": "https://i.pravatar.cc/100?u=worker11"
+    },
+    {
+        "username": "Ronald",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker12"
+    },
+    {
+        "username": "Mitchell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker13"             
+    },
+    {
+        "username": "Greg",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker14"
+    },
+    {
+        "username": "Eduardo",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Greece_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker15"
+    },
+    {
+        "username": "Cameron",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker16"
+    }
+
+],
+"Photographer":[
+    {
+        "username": "Mitchell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker13"             
+    },
+    {
+        "username": "Greg",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker14"
+    },
+    {
+        "username": "Eduardo",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Greece_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker15"
+    },
+    {
+        "username": "Cameron",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker16"
+    },
+    {
+        "username": "Photographer",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Colombia_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker1"
+    },
+    {
+        "username": "Leslie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Netherlands_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker2"
+    },
+    {
+        "username": "Arlene",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker3"
+    },
+    {
+        "username": "Victoria",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker4"
+    },
+    {
+        "username": "Gladys",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Poland_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker5"
+  
+    },
+    {
+        "username": "Darrell",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker6"
+     
+    },
+    {
+        "username": "Kyle",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker7"
+    },
+    {
+        "username": "Marjorie",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_United_Kingdom_Flat_Round-64x64.png",
+         "avatar": "https://i.pravatar.cc/100?u=worker8"
+      
+    },
+    {
+        "username": "Kristin",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Portugal_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker9"
+    },
+    {
+        "username": "Dianne",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+        "avatar": "https://i.pravatar.cc/100?u=worker10"
+    },
+    {
+        "username": "Philip",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Sweden_Flat_Round-64x64.png",
+       "avatar": "https://i.pravatar.cc/100?u=worker11"
+    },
+    {
+        "username": "Ronald",
+        "country_flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Italy_Flat_Round-64x64.png",
+    "avatar": "https://i.pravatar.cc/100?u=worker12"
+    }
+   
+
+]
+
+
+
+
+
+}
+
