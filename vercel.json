@@ -4,7 +4,7 @@
         "src": "Gemfile",
         "use": "@vercel/ruby",
         "config": {
-          "runtime": "2.6.8"
+          "runtime": "3.3.x"
         }
       },
       {
