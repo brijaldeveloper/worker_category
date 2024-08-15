@@ -20,5 +20,65 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Roboto_medium.ttf</string>
+		<string>Roboto.ttf</string>
+		<string>rubicon-icon-font.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>AkhandGujarati-Regular.otf</string>
+		<string>AkhandGujarati-Black.otf</string>
+		<string>AkhandGujarati-Bold.otf</string>
+		<string>AkhandGujarati-Extrabold.otf</string>
+		<string>AkhandGujarati-Extralight.otf</string>
+		<string>AkhandGujarati-Light.otf</string>
+		<string>AkhandGujarati-Semibold.otf</string>
+		<string>AkhandGujarati-Semilight.otf</string>
+		<string>Gujarati-Chandan.ttf</string>
+		<string>Gujarati-Saral.ttf</string>
+		<string>Gujarati-Vakil.ttf</string>
+		<string>Shrikhand-Regular.ttf</string>
+		<string>BalooBhai2-Bold.ttf</string>
+		<string>BalooBhai2-ExtraBold.ttf</string>
+		<string>BalooBhai2-Medium.ttf</string>
+		<string>BalooBhai2-Regular.ttf</string>
+		<string>BalooBhai2-SemiBold.ttf</string>
+		<string>HindVadodara-Bold.ttf</string>
+		<string>HindVadodara-Light.ttf</string>
+		<string>HindVadodara-Medium.ttf</string>
+		<string>HindVadodara-Regular.ttf</string>
+		<string>HindVadodara-SemiBold.ttf</string>
+		<string>KumarOneOutline-Regular.ttf</string>
+		<string>Mogra-Regular.ttf</string>
+		<string>MuktaVaani-Bold.ttf</string>
+		<string>MuktaVaani-ExtraBold.ttf</string>
+		<string>MuktaVaani-ExtraLight.ttf</string>
+		<string>MuktaVaani-Light.ttf</string>
+		<string>MuktaVaani-Medium.ttf</string>
+		<string>MuktaVaani-Regular.ttf</string>
+		<string>MuktaVaani-SemiBold.ttf</string>
+		<string>Farsan-Regular.ttf</string>
+		<string>Rasa-Bold.ttf</string>
+		<string>Rasa-Light.ttf</string>
+		<string>Rasa-Medium.ttf</string>
+		<string>Rasa-Regular.ttf</string>
+		<string>Rasa-SemiBold.ttf</string>
+	</array>
 </dict>
+
 </plist>

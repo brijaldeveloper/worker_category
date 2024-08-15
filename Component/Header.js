@@ -1,5 +1,6 @@
 import React from 'react';
 import {View, Image, StyleSheet} from 'react-native';
+import DeviceInfo from 'react-native-device-info';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 const Header = () => {
@@ -26,7 +27,8 @@ export default Header;
 
 const styles = StyleSheet.create({
   headerContainer: {
-    height: 55,
+   
+   marginTop:DeviceInfo.hasNotch()? 25:5,
     backgroundColor: '#fff',
     width: '100%',
     flexDirection: 'row',

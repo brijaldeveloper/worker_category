@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   categoryContainer: {
-    paddingVertical: 10,
+    paddingBottom: 10,
   },
   searchContainer: {
     paddingVertical: 15,
